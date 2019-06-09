@@ -1,10 +1,17 @@
 import React from "react";
-/**
- * Luigi
- */
-const PrecioHelados=()=>(
-    <div className="preciohelados">Precios de los Helados<br/>  <br/>
-    </div>
+
+const PrecioHelados=({nombre},{precio})=> {
     
-);
-export default  ClimaDetalle;
+
+    return (
+        <div className="PrecioHelados">
+            <h3> HELADOS: {nombre}</h3>
+           
+            <p>Descripcion del helado: tamaño pequeño tradicional</p>
+            
+        </div>
+    )
+}
+    
+    
+export default  PrecioHelados;

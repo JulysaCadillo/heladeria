@@ -5,7 +5,7 @@ import PrecioHelados from "./PrecioHelados";
 
 const Contenedor = () => (
  <div className="contenedor">
-    <div> Linea de Tiempo</div>
+    <div> HELADERIA</div>
     <div className="contenido">   
         <SaborHelados></SaborHelados>
         <PrecioHelados></PrecioHelados>

@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+.contenedor{
+  
+ /*background-image:  url("https://mdn.mozillademos.org/files/11991/startransparent.gif")*/
+
+ background-image:  url("https://img.freepik.com/foto-gratis/varios-cono-helado-sobre-fondo-blanco-concepto-postre-dulce-refrescante_9555-545.jpg?size=626&ext=jpg")
+}
+
+.SaborHelados{
+  background-color: brown;
+}
+
+h2{
+  font-size: 30px;
+  color: brown;
+  
+}
+
+
